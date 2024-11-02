@@ -44,7 +44,6 @@ Experienced in multicultural environments, building relationships, and adaptable
     <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/PRINCE2-%23004880.svg?style=for-the-badge&logo=apacherocketmq&logoColor=white" alt="PRINCE2 Ce/>
-        
 </div>
 
 
