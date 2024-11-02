@@ -29,7 +29,6 @@ Experienced in multicultural environments, building relationships, and adaptable
     <img src="https://img.shields.io/badge/Backend-%230A66C2.svg?style=for-the-badge&logo=appveyor" alt="Back-end"/>
     <img src="https://img.shields.io/badge/DevOps-%23039BE5.svg?style=for-the-badge&logo=appveyor" alt="DevOps"/>
     <img src="https://img.shields.io/badge/Responsive%20Design-%234CAF50.svg?style=for-the-badge&logo=appveyor" alt="Responsive Design"/>
-    <img src="https://img.shields.io/badge/Problem%20Solver-%23FF7F50.svg?style=for-the-badge&logo=appveyor" alt="Problem Solver"/>
     <img src="https://img.shields.io/badge/Deep%20Learning-%2320232a.svg?style=for-the-badge&logo=deeplearningdotai&logoColor=white" alt="Deep Learning"/>
     <img src="https://img.shields.io/badge/GPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
     <img src="https://img.shields.io/badge/Sales-%23FF6F00.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Sales"/>
