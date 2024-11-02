@@ -97,7 +97,7 @@ Here are some projects that I've worked on:
 👋
 Thank you for stopping by my profile! Feel free to reach out if you'd like to connect or collaborate on a project! Get in touch!
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+You!;Gracias!;Merci!;Danke!;Grazie!;Arigato!;Obrigado!;Grazie!;Spasibo!;Dhanyavaad!;Xiexie!;Shukran!;Kamsahamnida!;Děkuji!;Efharisto!;Asante!;Toda!;Dziękuję!;Takk!;Gracias!;Thank+You!&center=true&width=1000&height=120&color=FF5733&pause=50&fontSize=300)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+You!;Gracias!;Merci!;Danke!;Grazie!;Arigato!;Obrigado!;Grazie!;Spasibo!;Dhanyavaad!;Xiexie!;Shukran!;Kamsahamnida!;Děkuji!;Efharisto!;Asante!;Toda!;Dziękuję!;Takk!;Gracias!;Thank+You!&center=true&width=900&height=120&color=FF5733&pause=50&fontSize=300)
 
 
 
