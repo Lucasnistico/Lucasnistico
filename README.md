@@ -74,7 +74,7 @@ Experienced in multicultural environments, building relationships, and adaptable
 
 Here are some projects that I've worked on:
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Lucasnistico&repo=REPO_NAME&theme=transparent)](https://github.com/Lucasnistico/REPO_NAME)
+[![moodyWeather-Hackathon](https://github-readme-stats.vercel.app/api/pin/?username=Lucasnistico&repo=REPO_NAME&theme=transparent)](https://github.com/Lucasnistico/moodyWeather-Hackathon)
 
 ---
 
