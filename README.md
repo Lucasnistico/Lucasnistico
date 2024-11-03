@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C4CC&center=true&vCenter=true&width=600&lines=Junior+Developer+🌱;Data+Science+Enthusiast+📊;AI+Explorer+🤖;Problem+Solver+🧠;Software+Engineer+in+Training+👨‍💻;Strategic+Thinker+🧩;Creative+Inventor+💡;Team+Player+🤝;Always+Learning+🚀;Let's+Connect!+🌐)](https://git.io/typing-svg) 
 
-I'm a junior developer passionate about building web applications with a focus on **frontend** and **backend** development. Currently learning new technologies and excited to start my journey in the tech industry!
+I'm a junior developer passionate about building web applications with a focus on **frontend** and **backend** development. Currently learning new technologies and excited to start my journey in the tech 
 
-Software Engineer with a passion for computers, communication, problem-solving, and learning. 🤓
+Passion for computers, communication, problem-solving, and learning. 🤓
 
 Transitioning into the tech industry with a strong foundation in business, people management, marketing, and global logistics operations.
 
