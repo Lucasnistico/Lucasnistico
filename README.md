@@ -47,8 +47,7 @@ Experienced in multicultural environments, building relationships, and adaptable
 
 <div align="center" class="stats" style="transition: transform 0.3;">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucasnistico&show_icons=true&theme=transparent&hide=stars&count_private=true" alt="GitHub Stats" class="stats__card"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasnistico&theme=transparent" alt="GitHub Streak" class="stats__card"/>
-</div>
+ 
 
 ---
 
