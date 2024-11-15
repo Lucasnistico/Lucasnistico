@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Lucas Nistico!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C4CC&center=true&vCenter=true&width=600&lines=Junior+Developer+🌱;Data+Science+Enthusiast+📊;AI+Explorer+🤖;Problem+Solver+🧠;Software+Engineer+in+Training+👨‍💻;Strategic+Thinker+🧩;Creative+Inventor+💡;Team+Player+🤝;Always+Learning+🚀;Let's+Connect!+🌐)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C4CC&center=true&vCenter=true&width=600&lines=Junior+Developer+🌱;Data+Science+Enthusiast+📊;AI+Explorer+🤖;Problem+Solver+🧠;Software+Engineer+in+Training+👨‍💻;Strategic+Thinker+🧩;Creative+Inventor+💡;Team+Player+🤝;Always+Learning+🚀;Let's+Connect!+🌐)](https://git.io/typing-svg)
 
-I'm a junior developer passionate about building web applications with a focus on **frontend** and **backend** development. Currently learning new technologies and excited to start my journey in the tech 
+I'm a junior developer passionate about building web applications with a focus on **frontend** and **backend** development. Currently learning new technologies and excited to start my journey in tech.
 
 Passion for computers, communication, problem-solving, and learning. 🤓
 
@@ -38,24 +38,15 @@ Experienced in multicultural environments, building relationships, and adaptable
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/PRINCE2-%23004880.svg?style=for-the-badge&logo=apacherocketmq&logoColor=white" alt="PRINCE2 Cert" />
+    <img src="https://img.icons8.com/color/48/000000/project-management.png" alt="PRINCE2 Cert" width="40" height="40"/>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center" class="stats" style="transition: transform 0.3;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasnistico&show_icons=true&theme=transparent&hide=stars&count_private=true" alt="GitHub Stats" class="stats__card"/>
- 
-
----
-
-
-## 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnistico&layout=compact&theme=transparent" alt="Top Languages" />
+<div align="center" class="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucasnistico&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" class="stats__card"/>
 </div>
 
 
@@ -63,8 +54,8 @@ Experienced in multicultural environments, building relationships, and adaptable
 
 ## 🏆 My GitHub Trophies
 
-<div align="center" class="trophies" style="transition: transform 0.3s;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucasnistico&theme=onedark&row=1&no-frame=true&margin-w=15" alt="GitHub Trophies" class="trophies__card"/>
+<div align="center" class="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucasnistico&theme=onedark&row=1&margin-w=15" alt="GitHub Trophies" class="trophies__card"/>
 </div>
 
 ---
@@ -84,19 +75,18 @@ Here are some projects that I've worked on:
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.lucasnistico.com)
 
 ---
+
 ## 💡 A Little More About Me
 
-- 🎓 Currently completing my **Software Engineering Diploma** in London.
-- 🌍 Trilingual: I speak **English**, **Spanish**, and **Portuguese**.
-- 💼 Transitioning into tech with a strong foundation in **business**, **people management**, **marketing**, and **global logistics**.
-- 🧠 Passionate about **problem-solving**, **strategic thinking**, and **data-driven decision making**. I enjoy using data to prevent problems before they happen!
-- 🎸 In my free time, you’ll find me playing guitar, exploring music, and reading about AI advancements.
+<div style="text-align: left; margin-left: 20px;">
+  <p>🎓 Currently completing my **Software Engineering Diploma** in London.</p>
+  <p>🌍 Trilingual: I speak **English**, **Spanish**, and **Portuguese**.</p>
+  <p>💼 Transitioning into tech with a strong foundation in **business**, **people management**, **marketing**, and **global logistics**.</p>
+  <p>🧠 Passionate about **problem-solving**, **strategic thinking**, and **data-driven decision making**. I enjoy using data to prevent problems before they happen!</p>
+  <p>🎸 In my free time, you’ll find me playing guitar, exploring music, and reading about AI advancements.</p>
+</div>
 
-👋
-Thank you for stopping by my profile! Feel free to reach out if you'd like to connect or collaborate on a project! Get in touch!
-
-
-
+---
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+You!;Gracias!;Merci!;Danke!;Grazie!;Arigato!;Obrigado!;Grazie!;Spasibo!;Dhanyavaad!;Xiexie!;Shukran!;Kamsahamnida!;Děkuji!;Efharisto!;Asante!;Toda!;Dziękuję!;Takk!;Gracias!;Thank+You!&center=true&width=900&height=120&color=FF5733&pause=50&fontSize=300)
 
