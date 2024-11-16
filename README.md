@@ -43,12 +43,6 @@ Experienced in multicultural environments, building relationships, and adaptable
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center" class="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasnistico&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" class="stats__card"/>
-</div>
-
 
 ---
 
