@@ -59,6 +59,8 @@ Experienced in multicultural environments, building relationships, and adaptable
 Here are some projects that I've worked on:
 
 [![moodyWeather-Hackathon](https://github-readme-stats.vercel.app/api/pin/?username=Lucasnistico&repo=moodyWeather-Hackathon&theme=transparent)](https://github.com/Lucasnistico/moodyWeather-Hackathon)
+[![TicTacPie](https://github-readme-stats.vercel.app/api/pin/?username=Lucasnistico&repo=TicTacPie&theme=transparent)](https://github.com/Lucasnistico/TicTacPie)
+
 
 ---
 
