@@ -88,8 +88,6 @@ Here are some projects that I've worked on:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+You!;Gracias!;Merci!;Danke!;Grazie!;Arigato!;Obrigado!;Grazie!;Spasibo!;Dhanyavaad!;Xiexie!;Shukran!;Kamsahamnida!;Děkuji!;Efharisto!;Asante!;Toda!;Dziękuję!;Takk!;Gracias!;Thank+You!&center=true&width=900&height=120&color=FF5733&pause=50&fontSize=300)
 
 
-
-
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -104,10 +102,10 @@ Here are some projects that I've worked on:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Meta" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Copilot" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/project-management.png" alt="PRINCE2 Cert" width="40" height="40"/>
 </div>
+
 
