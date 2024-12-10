@@ -54,23 +54,19 @@ Experienced in multicultural environments, building relationships, and adaptable
 </div>
 
 ---
+## Check Out My Launched Apps 🚀
 
+🧑‍🚀🌍 My Projects:
+
+- <a href="https://moodyweather.lucasnistico.com" target="_blank" rel="noopener noreferrer">Moody Weather</a> - Your personalized weather experience.
+- <a href="https://bee2bee.lucasnistico.com" target="_blank" rel="noopener noreferrer">Bee2Bee</a> - Simplifying orders and management for vendors.
+---
 ## 📌 Pinned Repositories
 
 Here are some projects that I've worked on:
 
 [![moodyWeather-Hackathon](https://github-readme-stats.vercel.app/api/pin/?username=Lucasnistico&repo=moodyWeather-Hackathon&theme=transparent)](https://github.com/Lucasnistico/moodyWeather-Hackathon)
 [![TicTacPie](https://github-readme-stats.vercel.app/api/pin/?username=Lucasnistico&repo=TicTacPie&theme=transparent)](https://github.com/Lucasnistico/TicTacPie)
-
----
-
-## Check Out My Launched Apps 🚀
-
-🧑‍🚀🌍 My Projects:
-
-- [Moody Weather](https://moodyweather.lucasnistico.com) - Your personalized weather experience.
-- [Bee2Bee](https://bee2bee.lucasnistico.com) - Simplifying orders and management for vendors.
-
 
 ---
 
