@@ -60,6 +60,7 @@ Experienced in multicultural environments, building relationships, and adaptable
 
 - <a href="https://moodyweather.lucasnistico.com" target="_blank" rel="noopener noreferrer">Moody Weather</a> - Your personalized weather experience.
 - <a href="https://bee2bee.lucasnistico.com" target="_blank" rel="noopener noreferrer">Bee2Bee</a> - Simplifying orders and management for vendors.
+- - <a href="https://www.guitavares.com" target="_blank" rel="noopener noreferrer">Gui Tavares</a> - London professional musician website with instant booking and messaging service.
 ---
 ## 📌 Pinned Repositories
 
