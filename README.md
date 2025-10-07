@@ -85,7 +85,7 @@ Here are some projects that I've worked on:
 ## 💡 A Little More About Me
 
 <div style="text-align: left; margin-left: 20px;">
-  <p>🎓 Currently completing my **Software Engineering Diploma** in London.</p>
+  <p>🎓 Graduated in Software Engineering in London.</p>
   <p>🌍 Trilingual: I speak **English**, **Spanish**, and **Portuguese**.</p>
   <p>💼 Transitioning into tech with a strong foundation in **business**, **people management**, **marketing**, and **global logistics**.</p>
   <p>🧠 Passionate about **problem-solving**, **strategic thinking**, and **data-driven decision making**. I enjoy using data to prevent problems before they happen!</p>
