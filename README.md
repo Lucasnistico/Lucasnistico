@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C4CC&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+📊;AI+Explorer+🤖;Problem+Solver+🧠;Software+Engineer+in+Training+👨‍💻;Strategic+Thinker+🧩;Creative+Inventor+💡;Team+Player+🤝;Always+Learning+🚀;Let's+Connect!+🌐)](https://github.com/Lucasnistico)
 
 
-I'm a junior developer passionate about building web applications with a focus on **frontend** and **backend** development. Currently learning new technologies and excited to start my journey in tech.
+I'm a developer passionate about building web applications with a focus on **frontend** and **backend** development. Currently learning new technologies and excited to start my journey in tech.
 
 Passion for computers, communication, problem-solving, and learning. 🤓
 
