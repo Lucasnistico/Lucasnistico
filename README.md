@@ -60,7 +60,7 @@ Experienced in multicultural environments, building relationships, and adaptable
 
 - <a href="https://mercardindigital.com.br" target="_blank" rel="noopener noreferrer">Mercadin Digit@l</a> - Autonomous Market Website and custom stack.
 - <a href="https://www.intergalactico.ai" target="_blank" rel="noopener noreferrer"> Intergalactico.Ai </a> - Webdev and Socials.
-- - <a href="https://www.brazilhighstreet.com" target="_blank" rel="noopener noreferrer">Brazil High Street</a> - React Frontend for company selling Latam services and products.
+- <a href="https://www.brazilhighstreet.com" target="_blank" rel="noopener noreferrer">Brazil High Street</a> - React Frontend for company selling Latam services and products.
 - <a href="https://moodyweather.lucasnistico.com" target="_blank" rel="noopener noreferrer">Moody Weather</a> - Your personalized weather experience!.
 - <a href="https://bee2bee.lucasnistico.com" target="_blank" rel="noopener noreferrer">Bee2Bee</a> - Simplifying orders and management for vendors.
 
