@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lucas Nistico!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C4CC&center=true&vCenter=true&width=600&lines=Junior+Developer+🌱;Data+Science+Enthusiast+📊;AI+Explorer+🤖;Problem+Solver+🧠;Software+Engineer+in+Training+👨‍💻;Strategic+Thinker+🧩;Creative+Inventor+💡;Team+Player+🤝;Always+Learning+🚀;Let's+Connect!+🌐)](https://github.com/Lucasnistico)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C4CC&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+📊;AI+Explorer+🤖;Problem+Solver+🧠;Software+Engineer+in+Training+👨‍💻;Strategic+Thinker+🧩;Creative+Inventor+💡;Team+Player+🤝;Always+Learning+🚀;Let's+Connect!+🌐)](https://github.com/Lucasnistico)
 
 
 I'm a junior developer passionate about building web applications with a focus on **frontend** and **backend** development. Currently learning new technologies and excited to start my journey in tech.
@@ -58,11 +58,12 @@ Experienced in multicultural environments, building relationships, and adaptable
 
 🧑‍🚀🌍 My Projects:
 
-- <a href="https://moodyweather.lucasnistico.com" target="_blank" rel="noopener noreferrer">Moody Weather</a> - Your personalized weather experience.
+- <a href="https://mercardindigital.com.br" target="_blank" rel="noopener noreferrer">Mercadin Digit@l</a> - Autonomous Market Website and custom stack.
+- <a href="https://www.intergalactico.ai" target="_blank" rel="noopener noreferrer"> Intergalactico.Ai </a> - Webdev and Socials.
+- - <a href="https://www.brazilhighstreet.com" target="_blank" rel="noopener noreferrer">Brazil High Street</a> - React Frontend for company selling Latam services and products.
+- <a href="https://moodyweather.lucasnistico.com" target="_blank" rel="noopener noreferrer">Moody Weather</a> - Your personalized weather experience!.
 - <a href="https://bee2bee.lucasnistico.com" target="_blank" rel="noopener noreferrer">Bee2Bee</a> - Simplifying orders and management for vendors.
-- <a href="https://www.guitavares.com" target="_blank" rel="noopener noreferrer">Gui Tavares</a> - London professional musician website with instant booking and messaging service.
-- <a href="https://www.brazilhighstreet.com" target="_blank" rel="noopener noreferrer">High Street</a> - London-based digital forwarder website with fully working frontend.
-- <a href="https://cargame.lucasnistico.com/" target="_blank" rel="noopener noreferrer">CarGame Portifolio</a> - My First little game to highligh a few projects.
+
 ---
 ## 📌 Pinned Repositories
 
